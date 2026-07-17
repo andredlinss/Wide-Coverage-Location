@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    margin: 47px 0 50px 42px
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.button-sign-up {
+    background-color: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 95px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 1px;
+}
+
+.logo-positive {
+    width: 595px;
+    height: 500px;
+    margin: 33px 0 0 123px;
+}
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+    margin-left: 84px;
+    width: 493px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #161A49;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: #4B505A;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-top: 55px;
+    margin-bottom: 57px;
+}
+
+.button-learn-more {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #6FBF44;
+    display: inline-block;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
+
+@media screen and (max-width: 550px) {
+    .link-header {
+        display: none
+    }
+
+    .button-sign-up {
+        margin-left: 340px;
+    }
+
+    .logo-positive {
+        padding: 40px;
+        display: block;
+        width: 500px;
+        height: 400px;
+        margin: auto;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 24px;
+        text-align: center;
+    }
+
+    div {
+        display: block;
+        margin-left: 38px;
+        width: 409px;
+        text-align: center;
+    }
+
+    .button-learn-more {
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 25px;
+        color: #6FBF44;
+        display: block;
+        cursor: pointer;
+        background: transparent;
+        border: none;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    }
