@@ -11,4 +11,8 @@
 <br>
 
 <h2>Como ficou no desktop</h2>
-<img href="https://github.com/andredlinss/Wide-Coverage-Location/blob/main/img/desktop.png?raw=true"/>
+<img src="https://github.com/andredlinss/Wide-Coverage-Location/blob/main/img/desktop.png?raw=true"/>
+<br>
+<br>
+<h2>Como ficou no celular</h2>
+<img src= ""/>
