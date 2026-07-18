@@ -15,4 +15,4 @@
 <br>
 <br>
 <h2>Como ficou no celular</h2>
-<img src= "https://github.com/andredlinss/Wide-Coverage-Location/blob/main/img/cellphone.png?raw=true"/>
+<img src="https://github.com/andredlinss/Wide-Coverage-Location/blob/main/img/cellphone.png?raw=true"/>
