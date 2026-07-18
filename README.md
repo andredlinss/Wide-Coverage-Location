@@ -1,7 +1,7 @@
 <h1>Hide Coverage location</h1>
 <br>
 <br>
-<h2>Nesse projeto aprendi sobre responsividade, nas aulas da <a href= "https://www.rodrigomori.com.br/devclub">Devclub</a></h2>
+<h2>Nesse projeto aprendi sobre responsividade, nas aulas da <a href= "https://www.devclub.com.br/">Devclub</a></h2>
 <br>
 
 <h2>Tecnologias usadas</h2>
